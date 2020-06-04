@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+.vscode/
+.awcache/
+dist/
+
+.DS_Store
+*.swp
+*.log
+
+yarn-error.log
+.cache-loader/*
+lib/*
